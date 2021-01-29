@@ -1,5 +1,5 @@
 {
-    "name": "evercodelab/dependent-select-bundle",
+    "name": "stfalcon-studio/dependent-select-bundle",
     "type": "symfony-bundle",
     "description": "This bundle helps to create dependent AJAX fields for Symfony forms",
     "keywords": ["ajax dependent form", "dependent select"],
